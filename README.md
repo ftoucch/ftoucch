@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m Faith, a passionate Software Engineer with a strong focus on web development. I thrive on creating dynamic and efficient solutions, leveraging a diverse set of technologies. My core strengths include:
+Hi, I’m Faith, a passionate Software Engineer. I thrive on creating dynamic and efficient solutions, leveraging a diverse set of technologies. My core strengths include:
 
 - **Frontend Development:** React, Angular, Vue.js
 - **Backend Development:** Node.js, Laravel
