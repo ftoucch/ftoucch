@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @ftoucch
-- 👀 I’m interested in ... web development
-- 💞️ I’m looking to collaborate on ... a web app program.
-- 📫 How to reach me ... ftoucch@gmail.com
+# About Me
 
-<!---
-ftoucch/ftoucch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Faith, a passionate Software Engineer with a strong focus on web development. I thrive on creating dynamic and efficient solutions, leveraging a diverse set of technologies. My core strengths include:
+
+- **Frontend Development:** React, Angular, Vue.js
+- **Backend Development:** Node.js, Laravel
+- **Full-Stack Development:** Combining frontend and backend technologies to build seamless applications
+
+## Skills
+
+- **Languages:** JavaScript, PHP, HTML, CSS
+- **Frameworks/Libraries:** React, Angular, Vue.js, Node.js, Laravel
+- **Tools:** Git, Docker, Webpack, Babel
+- **Databases:** MySQL, MongoDB
+
+
+## Connect with Me
+
+I’m always open to discussing new ideas, collaborations, and opportunities. Let’s connect:
+
+- **Email:** [abubakr.faith.af@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/alimi-fatai-faith/
+
