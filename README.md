@@ -3,7 +3,7 @@
 Hi, I’m Fatai Alimi, a passionate Software Engineer. I thrive on creating dynamic and efficient solutions, leveraging a diverse set of technologies. My core strengths include:
 
 - **Frontend Development:** React, Angular, Vue.js
-- **Backend Development:** Node.js, Laravel
+- **Backend Development:** Node.js, Laravel, python
 - **Full-Stack Development:** Combining frontend and backend technologies to build seamless applications
 
 ## Skills
